@@ -1,0 +1,10 @@
+{
+  "name": "Coca-Cola: Open Happiness",
+  "description": "A premium, cinematic digital experience for Coca-Cola, featuring interactive 3D products, AI-powered flavor discovery, and immersive storytelling.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
